@@ -966,6 +966,74 @@ video {
   background-image: url('/img/stage/10R.jpg');
 }
 
+.bg-\[url\(\'img\/sports\/9\.jpg\'\)\] {
+  background-image: url('img/sports/9.jpg');
+}
+
+.bg-\[url\(\'img\/sports\/1\.jpg\'\)\] {
+  background-image: url('img/sports/1.jpg');
+}
+
+.bg-\[url\(\'img\/sports\/11\.jpg\'\)\] {
+  background-image: url('img/sports/11.jpg');
+}
+
+.bg-\[url\(\'img\/sports\/21\.jpg\'\)\] {
+  background-image: url('img/sports/21.jpg');
+}
+
+.bg-\[url\(\'img\/sports\/13\.jpg\'\)\] {
+  background-image: url('img/sports/13.jpg');
+}
+
+.bg-\[url\(\'img\/sports\/5\.JPG\'\)\] {
+  background-image: url('img/sports/5.JPG');
+}
+
+.bg-\[url\(\'img\/stage\/2R\.jpg\'\)\] {
+  background-image: url('img/stage/2R.jpg');
+}
+
+.bg-\[url\(\'img\/stage\/1R\.jpg\'\)\] {
+  background-image: url('img/stage/1R.jpg');
+}
+
+.bg-\[url\(\'img\/stage\/3R\.jpg\'\)\] {
+  background-image: url('img/stage/3R.jpg');
+}
+
+.bg-\[url\(\'img\/stage\/4R\.jpg\'\)\] {
+  background-image: url('img/stage/4R.jpg');
+}
+
+.bg-\[url\(\'img\/stage\/5R\.jpg\'\)\] {
+  background-image: url('img/stage/5R.jpg');
+}
+
+.bg-\[url\(\'\/mg\/stage\/6R\.jpg\'\)\] {
+  background-image: url('/mg/stage/6R.jpg');
+}
+
+.bg-\[url\(\'img\/stage\/6R\.jpg\'\)\] {
+  background-image: url('img/stage/6R.jpg');
+}
+
+.bg-\[url\(\'img\/stage\/7R\.jpg\'\)\] {
+  background-image: url('img/stage/7R.jpg');
+}
+
+.bg-\[url\(\'img\/stage\/8R\.jpg\'\)\] {
+  background-image: url('img/stage/8R.jpg');
+}
+
+.bg-\[url\(\'img\/stage\/9R\.jpg\'\)\] {
+  background-image: url('img/stage/9R.jpg');
+}
+
+.bg-\[url\(\'img\/stage\/10R\.jpg\'\)\] {
+  background-image: url('img/stage/10R.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
